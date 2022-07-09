@@ -14,6 +14,7 @@
 8.Phsh : 로컬 repo의 commit을 원격 repo에 반영 하기 
 9.Pull : 원격 repo의 commit을 로컬 repo에 반영 하기 
 10.Clone : 원격 repo를 내 컴퓨터에 가져와서 초기 repo 세팅 하는 것!(복제하기) 
+*팁! ) 충돌을 최소화하기 위해 pull - 로컬 repo commit - push 순서로 하면 좋다! 
 
 
 앞으로 git 프로젝트로 만들고 싶은것
