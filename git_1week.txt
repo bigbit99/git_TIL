@@ -1,0 +1,22 @@
+1주차 주요 개념 키워드 
+1.버전관리란
+: 작업 , 특히 공동 작업에서 프로젝트 상태 정보를 알고 있는 것 
+2.Commit
+: 현재 프로젝트 상태를 저장 하는 것
+누가(author), 언제 commit 했는지의 정보와 프로젝트 변경 내용 
+작업 내역이 어떤 것인지 기록하는 것을 commit 메시지 라고 함
+3.add(혹은 staging) 
+: commit에 반영할지 안할지 파일 단위로 선택함
+4.commit history : commit 한 순서대로 리스트! 
+5.Git 초기화하기 – add(staging) – commit , git초기화는 처음 단 한번만 해줌. 
+6.Repo : git으로 관리되는 프로젝트 (로컬 repo / 원격 repo) 
+7.Tracking : 로컬repo 와 원격repo를 연결한다! 
+8.Phsh : 로컬 repo의 commit을 원격 repo에 반영 하기 
+9.Pull : 원격 repo의 commit을 로컬 repo에 반영 하기 
+10.Clone : 원격 repo를 내 컴퓨터에 가져와서 초기 repo 세팅 하는 것!(복제하기) 
+
+
+앞으로 git 프로젝트로 만들고 싶은것
+1. 공부한 내용 TIL 관리하기
+2. 오류 노트 !!! 만들기 
+ 
